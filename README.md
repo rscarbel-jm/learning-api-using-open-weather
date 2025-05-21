@@ -6,14 +6,6 @@ A NextJS 15 application designed to help developers learn how to work with exter
 
 This project is a simple weather application built with NextJS 15 that displays current weather conditions for selected cities. The application is intentionally designed as a learning exercise for working with third-party APIs, specifically the OpenWeather API.
 
-**Learning objectives:**
-
-- Understanding API integration in Next.js applications
-- Working with environment variables
-- Implementing service classes for API communication
-- Data transformation and validation with Zod
-- Error handling in API requests
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -125,7 +117,6 @@ Remember that the API key should never be exposed to the client side. The curren
 - The application uses Tailwind CSS for styling
 - PrimeReact components are used for the UI
 - Zod is used for data validation and parsing
-- The app is designed to show different backgrounds based on the time of day
 
 ## 🚧 Troubleshooting
 
